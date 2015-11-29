@@ -1,0 +1,3 @@
+这是一套为农业种植技术app设计的信息图，从植物的最小单位细胞开始延展，根据生物知识，将细胞膜，细胞质，叶绿体等元素简化，融入到信息图中。
+
+This is an infographic developed for agricultural statistic data. Start from the basic unit "cell", this inforgraphic creates a storyline for biology konwledge. The other biological components such as cell membrane, chloroplast and cytoplasm have also been symbolized in this infographic.  
